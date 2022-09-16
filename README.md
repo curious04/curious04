@@ -1,3 +1,5 @@
+![HEY, I'M HRITHIK](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
+
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 <h3 align="center">An enthusiastic learner,passionate about creating positive impact through my skills</h3>
 
