@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curious04&show_icons=true&locale=en&layout=compact" alt="curious04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curious04&show_icons=true&locale=en" alt="curious04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curious04&show_icons=true&theme=radical" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curious04&" alt="curious04" /></p>
