@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 <h3 align="center">An enthusiastic learner,passionate about creating positive impact through my skills</h3>
 
+<div align="center"> 
+<i>Random dev joke for you!</i></br></br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+</div>
+
 - 👨‍💻 Some of my projects are available at [hrithikportfolio.web.app](hrithikportfolio.web.app)
 
 - 📫 How to reach me **hrithikks10@gmail.com**
