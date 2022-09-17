@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Hrithik</h1>
+<h1 align="center">Hi 👋![CarryMinatiAjeyNagarGIF](https://user-images.githubusercontent.com/96012516/190858816-c327c634-41a4-4910-a869-106eaceebb6d.gif)
+, I'm Hrithik</h1>
 <h3 align="center">An enthusiastic learner,passionate about creating positive impact through my skills</h3>
 
 <div align="center"> 
