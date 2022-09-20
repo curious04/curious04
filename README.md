@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
-<h3 align="center">An enthusiastic learner,passionate about creating positive impact through my skills</h3>
+
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
