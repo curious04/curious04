@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://vanta-halo.vercel.app/">
+<img alt="coding" width="400" src="https://vanta-halo.vercel.app/">
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 
 
