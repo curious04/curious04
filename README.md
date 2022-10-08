@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 
+<img align="right" alt="coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
