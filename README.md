@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
-<style> background-url: "https://vanta-halo.vercel.app/"</style>
+
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
