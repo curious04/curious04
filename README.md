@@ -1,4 +1,4 @@
-![logo](https://github.com/curious04/curious04/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 
 
