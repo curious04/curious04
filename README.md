@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hrithik</h1>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/6f/6f8565d8b827c41522e389725207240e_w200.webp">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/89/8939bf1e7ce8bf9506a12c8923a87e2d_w200.webp">
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
