@@ -1,6 +1,5 @@
 
-<h1 align="center">Howdy 👋![image](https://user-images.githubusercontent.com/96012516/194766268-df5c6702-a966-43c5-badb-8e41bb943a9f.png)
-, I'm Hrithik</h1>
+<h1 align="center">Howdy 👋, I'm Hrithik</h1>
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/e4/e427b6f097de736409d9a571cbcc3c62_w200.webp">
 
