@@ -31,7 +31,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=curious04&column=-1&no-issues=true&no-pr=false" alt="Hrithik Singh" />
+    <img src="https://github-profile-trophy.vercel.app/?username=curious04&title=-Issues,-PullRequest,-Reviews" alt="Hrithik Singh" />
   </a> 
 </p>
 
