@@ -29,7 +29,7 @@
 
 <div align="left"><h2>🏆 Github Trophy</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyprincesingh&column=-1" alt="heyprincesingh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=curious04&column=-1" alt="Hrithik Singh" /></a> </p>
 
 ***
 
