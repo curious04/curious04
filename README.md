@@ -1,319 +1,135 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GLITCH HEADER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/FULL--STACK-00f5a0?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/CLOUD_NATIVE-ff6b6b?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-ffd93d?style=for-the-badge&logoColor=black" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:0a0a2e,100:000000&height=280&section=header&text=HRITHIK%20SINGH&fontSize=80&fontColor=00FFFF&animation=fadeIn&fontAlignY=45&stroke=00FFFF&strokeWidth=1&desc=◈%20FULL-STACK%20DEVELOPER%20◈%20CLOUD%20NATIVE%20◈%20OPEN%20SOURCE%20◈&descAlignY=68&descColor=FF00FF&descSize=16" />
+# 👾 HRITHIK SINGH
 
-</div>
+### `curious04` · 🇮🇳 India · Building Things That Matter
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=%3E+INITIALIZING+HRITHIK.EXE...+%5BOK%5D;%3E+LOADING+FULL+STACK+MODULES...+%5BOK%5D;%3E+CONNECTING+TO+THE+MATRIX...+%5BOK%5D;%3E+DEPLOYING+BUGS+TO+PRODUCTION...+%5BWAIT%5D;%3E+SYSTEM+STATUS%3A+CAFFEINATED+%26+DANGEROUS+%E2%98%95;%3E+git+push+origin+main+--force+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=curious04.curious04&format=true&left_color=black&right_color=cyan&left_text=INTRUDERS%20DETECTED)
-&nbsp;&nbsp;
-[![followers](https://img.shields.io/github/followers/curious04?label=FOLLOWERS&style=flat-square&color=00FFFF&labelColor=0D0D0D&logo=github)](https://github.com/curious04?tab=followers)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-00FF41?style=flat-square&labelColor=0D0D0D)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/BUGS-FEATURES%20IN%20DISGUISE-FF00FF?style=flat-square&labelColor=0D0D0D)
+> **> STATUS: BUILDING IN PUBLIC 🚀**
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     RPG CHARACTER CARD                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 🎮 Character Sheet
 
-<div align="center">
+| Attribute | Value |
+|-----------|-------|
+| **Class** | Full-Stack Warlock |
+| **Origin** | India 🇮🇳 |
+| **Focus** | Web · Mobile · Cloud · AI |
+| **Weapon** | React + Node.js |
+| **Mount** | Docker Container |
+| **Passive** | `console.log()` vision |
+| **Ultimate** | Ship at 3 AM 🔥 |
 
+### Stats
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                  ⚡ CHARACTER SELECT SCREEN ⚡                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  NAME    ▸  Hrithik Singh          CLASS   ▸  Full-Stack Warlock ║
-║  HANDLE  ▸  curious04              ORIGIN  ▸  India 🇮🇳          ║
-║  LEVEL   ▸  ██████████░░ 85/100   XP      ▸  200 commits/yr     ║
-║  HP      ▸  ████████████ MAX       MANA    ▸  ☕☕☕☕☕            ║
-║  WEAPON  ▸  React + Node.js        MOUNT   ▸  Docker Container   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  PASSIVE ▸  console.log() vision — sees bugs others cannot       ║
-║  SPELL 1 ▸  Cloud Deploy  │  SPELL 2  ▸  AI Integration         ║
-║  SPELL 3 ▸  git push -f   │  ULTIMATE ▸  Ship at 3 AM 🔥        ║
-╚══════════════════════════════════════════════════════════════════╝
+FRONTEND XP    ████████████████████░░░  88
+BACKEND XP     ██████████████████░░░░░  75
+CLOUD / DEVOPS ███████████████░░░░░░░░  62
+CAFFEINE LEVEL ███████████████████████  91
 ```
 
-</div>
+- ✅ Open to collabs & OSS
+- 💬 Ask me about React · Firebase
+- 📈 200+ commits/yr & counting
+- 🧠 `trust: git > my own memory`
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 🛠️ Tech Stack
 
-## `~/whoami` &nbsp;◈&nbsp; _The Human Behind the Terminal_
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-```zsh
-curious04@earth:~$ cat about.txt
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-  ┌─────────────────────────────────────────┐
-  │  🔭  Building: full-stack web & mobile  │
-  │  🌱  Learning: Cloud Arch + AI/ML       │
-  │  🤝  Seeking: collabs & OSS fun         │
-  │  💬  Expert in: React · Node · Firebase │
-  │  🎯  Goal: ship before the deadline     │
-  │  ⚡  Truth: git blame says it was me    │
-  └─────────────────────────────────────────┘
+### Cloud & DevOps
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-curious04@earth:~$ uptime
-  02:47 up ∞ days, running on caffeine
-
-curious04@earth:~$ sudo rm -rf sleep/
-  [sudo] password: **********
-  Removed. hustle continues. 🚀
-```
-
-<br clear="right"/>
+### AI / ML & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      SKILL ICONS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 🎯 Active Missions
 
-## `~/tech-stack` &nbsp;◈&nbsp; _Weapons of Mass Creation_
+| Mission | Stack | Status | Progress |
+|---------|-------|--------|----------|
+| **Full-Stack Web Platform** | React · Node · MongoDB | `IN PROGRESS` | `████████░░` |
+| **Cloud Architecture Deep Dive** | AWS · GCP · Kubernetes | `STUDYING` | `██████░░░░` |
+| **React Native Mobile App** | RN · Firebase · Redux | `DEBUGGING` | `████████░░` |
+| **AI Integration Layer** | Python · TensorFlow · APIs | `PLANNING` | `████░░░░░░` |
+
+---
+
+## ⚡ Quick Stats
 
 <div align="center">
 
-### ⌨️ &nbsp;Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css&perline=7&theme=dark" />
-
-### 🖥️ &nbsp;Frontend Arsenal
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,vite&perline=7&theme=dark" />
-
-### ⚙️ &nbsp;Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,graphql,redis&perline=7&theme=dark" />
-
-### ☁️ &nbsp;Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=firebase,aws,gcp,docker,kubernetes,linux,git&perline=7&theme=dark" />
-
-### 🤖 &nbsp;AI/ML & Tools
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,figma,postman,arduino,androidstudio,vercel&perline=7&theme=dark" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            CURRENTLY LOADING / ACTIVE MISSIONS             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `~/active-missions` &nbsp;◈&nbsp; _What's In The War Room_
-
-<div align="center">
-
-| MISSION | STATUS | STACK | PROGRESS |
-|:--------|:------:|:-----:|:--------:|
-| 🏗️ Full-Stack Web Platform | `IN PROGRESS` | React · Node · MongoDB | `████████░░ 80%` |
-| ☁️ Cloud Architecture Deep Dive | `STUDYING` | AWS · GCP · K8s | `██████░░░░ 60%` |
-| 🤖 AI Integration Layer | `PLANNING` | Python · TensorFlow · APIs | `████░░░░░░ 40%` |
-| 📱 React Native Mobile App | `DEBUGGING` | RN · Firebase · Redux | `███████░░░ 70%` |
-| 🌐 Open Source Contributions | `ALWAYS ON` | Everything · Anything | `██████████ ∞%` |
+| | |
+|:-:|:-:|
+| **200+** commits/year<br/>*and still caffeinating* | **7+** languages used<br/>*Python to C++* |
+| **3** cloud platforms<br/>*AWS · GCP · Firebase* | **∞** stack overflows<br/>*tabs still open* |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `~/projects` &nbsp;◈&nbsp; _Shipped. Deployed. Feared._
-
-> 🔧 **Replace** `repo-name-1` … `repo-name-4` with your actual repository slugs!
+## 🔗 Connect
 
 <div align="center">
 
-<a href="https://github.com/curious04/repo-name-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-1&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&icon_color=FF00FF&border_radius=8" />
-</a>&nbsp;
-<a href="https://github.com/curious04/repo-name-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-2&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&icon_color=FF00FF&border_radius=8" />
-</a>
-
-<a href="https://github.com/curious04/repo-name-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-3&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&icon_color=FF00FF&border_radius=8" />
-</a>&nbsp;
-<a href="https://github.com/curious04/repo-name-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-4&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&icon_color=FF00FF&border_radius=8" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://hrithikportfolio.web.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `~/stats` &nbsp;◈&nbsp; _Numbers Don't Lie_
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=curious04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&icon_color=FF00FF&text_color=aaaaaa&count_private=true&include_all_commits=true&ring_color=00FFFF&border_radius=8" width="49%" />
-<img src="https://streak-stats.demolab.com?user=curious04&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&border_radius=8" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curious04&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&langs_count=8&border_radius=8" width="32%" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curious04&theme=github_dark&utcOffset=5.5" width="32%" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=curious04&theme=github_dark" width="32%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE ANIMATION                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `~/contribution-map` &nbsp;◈&nbsp; _The Snake Eats My Commits_
-
-<div align="center">
-
-> 🐍 **Setup:** Enable [GitHub Actions](https://github.com/curious04/curious04/actions) with the `Platane/snk` workflow, then uncomment below:
-
-```
-<!-- Once workflow is active, paste this: -->
-<!-- <img src="https://raw.githubusercontent.com/curious04/curious04/output/github-contribution-grid-snake-dark.svg" /> -->
-```
-
-**In the meantime — the raw battle map:**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=curious04&bg_color=0D0D0D&color=00FFFF&line=FF00FF&point=ffffff&area=true&area_color=001a2e&hide_border=true&custom_title=〔%20COMMIT%20TIMELINE%20—%20HRITHIK%20SINGH%20〕&radius=8" width="95%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    PROFILE SUMMARY                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `~/profile-deep-dive` &nbsp;◈&nbsp; _Under The Hood_
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curious04&theme=github_dark" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curious04&theme=github_dark" width="46%" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=curious04&theme=github_dark" width="46%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `~/connect` &nbsp;◈&nbsp; _Locate. Follow. Collaborate._
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/hrithik10/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" />
-</a>
-&nbsp;
-<a href="https://twitter.com/hrithikcurious">
-  <img src="https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D0D0D" />
-</a>
-&nbsp;
-<a href="https://instagram.com/curious_hrithik">
-  <img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D0D" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.hackerrank.com/curious04">
-  <img src="https://img.shields.io/badge/HACKERRANK-Compete-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D0D0D" />
-</a>
-&nbsp;
-<a href="https://hrithikportfolio.web.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Explore-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D0D0D" />
-</a>
-&nbsp;
-<a href="mailto:hrithikks10@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-DM%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" />
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  RANDOM DEV JOKE                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `~/random-drop` &nbsp;◈&nbsp; _Daily Brain Damage_
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230D0D0D&textColor=%2300FFFF&aColor=%2300FF41&borderColor=%23001a2e&qColor=%23FF00FF&codeColor=%2300FFFF" alt="Joke of the day" />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FOOTER / TERMINAL LOG                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────────┐
-│              TRANSMISSION ENDING...                        │
-│                                                            │
-│  [✓] Code committed    [✓] Bugs shipped as features        │
-│  [✓] Coffee consumed   [✓] Docs written (eventually)       │
-│  [✓] Stack overflowed  [✓] PR open — review pending...     │
-│                                                            │
-│  > Thanks for scrolling this far. You're one of us now.    │
-└────────────────────────────────────────────────────────────┘
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a2e,100:0D0D0D&height=140&section=footer&animation=fadeIn&reversal=true" />
-
-![](https://img.shields.io/badge/Built%20with-☕%20+%20%3E%3E%3E-00FF41?style=flat-square&labelColor=0D0D0D)
-&nbsp;
-![](https://img.shields.io/badge/Bugs-Definitely%20None-FF00FF?style=flat-square&labelColor=0D0D0D)
-&nbsp;
-![](https://img.shields.io/badge/Sleep%20Schedule-git%20push%20--force-00FFFF?style=flat-square&labelColor=0D0D0D)
-
-<sub><b>◈ Hrithik Singh / curious04 ◈ &nbsp;·&nbsp; <a href="https://hrithikportfolio.web.app/">hrithikportfolio.web.app</a></b></sub>
-
+  <sub>© Hrithik Singh / curious04 · hrithikportfolio.web.app</sub>
 </div>
