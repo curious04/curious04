@@ -1,207 +1,284 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Hrithik%20Singh&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=∙%20Full-Stack%20Developer%20∙%20Cloud%20Native%20∙%20Open%20Source%20Nerd%20∙&descAlignY=58&descColor=ccc&descSize=17" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GLITCH HEADER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Hrithik+%F0%9F%91%8B;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;Full-Stack+%7C+Mobile+%7C+Cloud+%7C+AI%2FML;Turn+coffee+into+code+%E2%98%95%E2%86%92%F0%9F%92%BB" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=curious04.curious04&format=true" />
-&nbsp;
-<a href="https://github.com/curious04?tab=followers">
-  <img src="https://img.shields.io/github/followers/curious04?label=Followers&style=social" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=flat-square" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:0a0a2e,100:000000&height=280&section=header&text=HRITHIK%20SINGH&fontSize=80&fontColor=00FFFF&animation=fadeIn&fontAlignY=45&stroke=00FFFF&strokeWidth=1&desc=◈%20FULL-STACK%20DEVELOPER%20◈%20CLOUD%20NATIVE%20◈%20OPEN%20SOURCE%20◈&descAlignY=68&descColor=FF00FF&descSize=16" />
 
 </div>
 
----
+<div align="center">
 
-## 🧬 About Me
-
-<img align="right" width="340" src="https://i.gifer.com/origin/e4/e427b6f097de736409d9a571cbcc3c62_w200.webp" />
-
-```yaml
-Name:       Hrithik Singh
-Handle:     curious04
-From:       India 🇮🇳
-Role:       Full-Stack Developer
-Portfolio:  hrithikportfolio.web.app
-Focus:      Web · Mobile · Cloud · AI
-Status:     Compiling life at 200 commits/yr...
-```
-
-- 🔭 Working on full-stack web & mobile projects
-- 🌱 Currently diving deeper into **Cloud Architecture + AI integrations**
-- 🤝 Open to **collaborations** and **open source** contributions
-- 💬 Ask me anything about **React · Node.js · Firebase · Python**
-- ⚡ Fun fact: I trust `console.log` more than my own eyes
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=%3E+INITIALIZING+HRITHIK.EXE...+%5BOK%5D;%3E+LOADING+FULL+STACK+MODULES...+%5BOK%5D;%3E+CONNECTING+TO+THE+MATRIX...+%5BOK%5D;%3E+DEPLOYING+BUGS+TO+PRODUCTION...+%5BWAIT%5D;%3E+SYSTEM+STATUS%3A+CAFFEINATED+%26+DANGEROUS+%E2%98%95;%3E+git+push+origin+main+--force+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
 <br/>
 
----
-
-## 🎵 Spotify — Now Playing
-
-<div align="center">
-
-> **[One-time 5-min setup]** → Deploy [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) on Vercel, paste your UID below, then delete this note.
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+![](https://visitor-badge.laobi.icu/badge?page_id=curious04.curious04&format=true&left_color=black&right_color=cyan&left_text=INTRUDERS%20DETECTED)
+&nbsp;&nbsp;
+[![followers](https://img.shields.io/github/followers/curious04?label=FOLLOWERS&style=flat-square&color=00FFFF&labelColor=0D0D0D&logo=github)](https://github.com/curious04?tab=followers)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-00FF41?style=flat-square&labelColor=0D0D0D)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/BUGS-FEATURES%20IN%20DISGUISE-FF00FF?style=flat-square&labelColor=0D0D0D)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     RPG CHARACTER CARD                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hrithikcurious)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik10/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/curious_hrithik)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/curious04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hrithikportfolio.web.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithikks10@gmail.com)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  ⚡ CHARACTER SELECT SCREEN ⚡                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  NAME    ▸  Hrithik Singh          CLASS   ▸  Full-Stack Warlock ║
+║  HANDLE  ▸  curious04              ORIGIN  ▸  India 🇮🇳          ║
+║  LEVEL   ▸  ██████████░░ 85/100   XP      ▸  200 commits/yr     ║
+║  HP      ▸  ████████████ MAX       MANA    ▸  ☕☕☕☕☕            ║
+║  WEAPON  ▸  React + Node.js        MOUNT   ▸  Docker Container   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  PASSIVE ▸  console.log() vision — sees bugs others cannot       ║
+║  SPELL 1 ▸  Cloud Deploy  │  SPELL 2  ▸  AI Integration         ║
+║  SPELL 3 ▸  git push -f   │  ULTIMATE ▸  Ship at 3 AM 🔥        ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `~/whoami` &nbsp;◈&nbsp; _The Human Behind the Terminal_
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```zsh
+curious04@earth:~$ cat about.txt
+
+  ┌─────────────────────────────────────────┐
+  │  🔭  Building: full-stack web & mobile  │
+  │  🌱  Learning: Cloud Arch + AI/ML       │
+  │  🤝  Seeking: collabs & OSS fun         │
+  │  💬  Expert in: React · Node · Firebase │
+  │  🎯  Goal: ship before the deadline     │
+  │  ⚡  Truth: git blame says it was me    │
+  └─────────────────────────────────────────┘
+
+curious04@earth:~$ uptime
+  02:47 up ∞ days, running on caffeine
+
+curious04@earth:~$ sudo rm -rf sleep/
+  [sudo] password: **********
+  Removed. hustle continues. 🚀
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      SKILL ICONS                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `~/tech-stack` &nbsp;◈&nbsp; _Weapons of Mass Creation_
 
 <div align="center">
 
-**Languages**
+### ⌨️ &nbsp;Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css&perline=7&theme=dark" />
 
-**Frontend**
+### 🖥️ &nbsp;Frontend Arsenal
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,vite&perline=7&theme=dark" />
 
-**Backend & Databases**
+### ⚙️ &nbsp;Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,graphql,redis&perline=7&theme=dark" />
 
-**Cloud & DevOps**
+### ☁️ &nbsp;Cloud & DevOps
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=firebase,aws,gcp,docker,kubernetes,linux,git&perline=7&theme=dark" />
 
-**AI / ML & Others**
+### 🤖 &nbsp;AI/ML & Tools
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,figma,postman,arduino,androidstudio,vercel&perline=7&theme=dark" />
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            CURRENTLY LOADING / ACTIVE MISSIONS             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-> ⚙️ Replace `repo-name-1` … `repo-name-4` with your actual repository names!
+## `~/active-missions` &nbsp;◈&nbsp; _What's In The War Room_
+
+<div align="center">
+
+| MISSION | STATUS | STACK | PROGRESS |
+|:--------|:------:|:-----:|:--------:|
+| 🏗️ Full-Stack Web Platform | `IN PROGRESS` | React · Node · MongoDB | `████████░░ 80%` |
+| ☁️ Cloud Architecture Deep Dive | `STUDYING` | AWS · GCP · K8s | `██████░░░░ 60%` |
+| 🤖 AI Integration Layer | `PLANNING` | Python · TensorFlow · APIs | `████░░░░░░ 40%` |
+| 📱 React Native Mobile App | `DEBUGGING` | RN · Firebase · Redux | `███████░░░ 70%` |
+| 🌐 Open Source Contributions | `ALWAYS ON` | Everything · Anything | `██████████ ∞%` |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `~/projects` &nbsp;◈&nbsp; _Shipped. Deployed. Feared._
+
+> 🔧 **Replace** `repo-name-1` … `repo-name-4` with your actual repository slugs!
 
 <div align="center">
 
 <a href="https://github.com/curious04/repo-name-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-1&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&icon_color=FF00FF&border_radius=8" />
+</a>&nbsp;
 <a href="https://github.com/curious04/repo-name-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-2&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&icon_color=FF00FF&border_radius=8" />
 </a>
+
 <a href="https://github.com/curious04/repo-name-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-3&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&icon_color=FF00FF&border_radius=8" />
+</a>&nbsp;
 <a href="https://github.com/curious04/repo-name-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=curious04&repo=repo-name-4&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&icon_color=FF00FF&border_radius=8" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `~/stats` &nbsp;◈&nbsp; _Numbers Don't Lie_
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=curious04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=curious04&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=curious04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&icon_color=FF00FF&text_color=aaaaaa&count_private=true&include_all_commits=true&ring_color=00FFFF&border_radius=8" width="49%" />
+<img src="https://streak-stats.demolab.com?user=curious04&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&border_radius=8" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curious04&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=curious04&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&custom_title=Hrithik's%20Contribution%20Graph" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curious04&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=00FFFF&text_color=aaaaaa&langs_count=8&border_radius=8" width="32%" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curious04&theme=github_dark&utcOffset=5.5" width="32%" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=curious04&theme=github_dark" width="32%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION SNAKE ANIMATION                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `~/contribution-map` &nbsp;◈&nbsp; _The Snake Eats My Commits_
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=curious04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
+> 🐍 **Setup:** Enable [GitHub Actions](https://github.com/curious04/curious04/actions) with the `Platane/snk` workflow, then uncomment below:
+
+```
+<!-- Once workflow is active, paste this: -->
+<!-- <img src="https://raw.githubusercontent.com/curious04/curious04/output/github-contribution-grid-snake-dark.svg" /> -->
+```
+
+**In the meantime — the raw battle map:**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=curious04&bg_color=0D0D0D&color=00FFFF&line=FF00FF&point=ffffff&area=true&area_color=001a2e&hide_border=true&custom_title=〔%20COMMIT%20TIMELINE%20—%20HRITHIK%20SINGH%20〕&radius=8" width="95%" />
 
 </div>
 
 ---
 
-## 📈 Profile Summary
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PROFILE SUMMARY                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `~/profile-deep-dive` &nbsp;◈&nbsp; _Under The Hood_
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curious04&theme=tokyonight" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curious04&theme=github_dark" width="95%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curious04&theme=tokyonight" width="31%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=curious04&theme=tokyonight" width="31%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=curious04&theme=tokyonight&utcOffset=5.5" width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=curious04&theme=github_dark" width="46%" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=curious04&theme=github_dark" width="46%" />
 
 </div>
 
 ---
 
-## 🎲 Dev Joke + Quote
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       CONNECT                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `~/connect` &nbsp;◈&nbsp; _Locate. Follow. Collaborate._
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%2358A6FF&aColor=%2358A6FF&borderColor=%231f3a5f&qColor=%238b949e" alt="Dev Joke" />
+<a href="https://www.linkedin.com/in/hrithik10/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" />
+</a>
+&nbsp;
+<a href="https://twitter.com/hrithikcurious">
+  <img src="https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D0D0D" />
+</a>
+&nbsp;
+<a href="https://instagram.com/curious_hrithik">
+  <img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D0D" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.hackerrank.com/curious04">
+  <img src="https://img.shields.io/badge/HACKERRANK-Compete-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D0D0D" />
+</a>
+&nbsp;
+<a href="https://hrithikportfolio.web.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D0D0D" />
+</a>
+&nbsp;
+<a href="mailto:hrithikks10@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-DM%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  RANDOM DEV JOKE                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `~/random-drop` &nbsp;◈&nbsp; _Daily Brain Damage_
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230D0D0D&textColor=%2300FFFF&aColor=%2300FF41&borderColor=%23001a2e&qColor=%23FF00FF&codeColor=%2300FFFF" alt="Joke of the day" />
 
 <br/><br/>
 
@@ -211,10 +288,32 @@ Status:     Compiling life at 200 commits/yr...
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   FOOTER / TERMINAL LOG                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=130&section=footer&animation=twinkling" />
+```
+┌────────────────────────────────────────────────────────────┐
+│              TRANSMISSION ENDING...                        │
+│                                                            │
+│  [✓] Code committed    [✓] Bugs shipped as features        │
+│  [✓] Coffee consumed   [✓] Docs written (eventually)       │
+│  [✓] Stack overflowed  [✓] PR open — review pending...     │
+│                                                            │
+│  > Thanks for scrolling this far. You're one of us now.    │
+└────────────────────────────────────────────────────────────┘
+```
 
-<sub><b>Made with ❤️ + ☕ by Hrithik Singh</b> · <a href="https://hrithikportfolio.web.app/">hrithikportfolio.web.app</a></sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a2e,100:0D0D0D&height=140&section=footer&animation=fadeIn&reversal=true" />
+
+![](https://img.shields.io/badge/Built%20with-☕%20+%20%3E%3E%3E-00FF41?style=flat-square&labelColor=0D0D0D)
+&nbsp;
+![](https://img.shields.io/badge/Bugs-Definitely%20None-FF00FF?style=flat-square&labelColor=0D0D0D)
+&nbsp;
+![](https://img.shields.io/badge/Sleep%20Schedule-git%20push%20--force-00FFFF?style=flat-square&labelColor=0D0D0D)
+
+<sub><b>◈ Hrithik Singh / curious04 ◈ &nbsp;·&nbsp; <a href="https://hrithikportfolio.web.app/">hrithikportfolio.web.app</a></b></sub>
 
 </div>
