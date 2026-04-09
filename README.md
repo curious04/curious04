@@ -34,47 +34,7 @@
 </div>
 
 <div align="center">
-
-<table>
-<tr>
-<td align="left" width="55%">
-
-```
-╔═══════════════════════════════════════════╗
-║  CLASS   ▸ Full-Stack Warlock             ║
-║  HANDLE  ▸ curious04                      ║
-║  ORIGIN  ▸ India 🇮🇳                       ║
-║  FOCUS   ▸ Web · Mobile · Cloud · AI      ║
-║  WEAPON  ▸ React + Node.js                ║
-║  MOUNT   ▸ Docker Container               ║
-╠═══════════════════════════════════════════╣
-║  PASSIVE ▸ console.log() vision           ║
-║  SPELL 1 ▸ Cloud Deploy                   ║
-║  SPELL 2 ▸ AI Integration                 ║
-║  SPELL 3 ▸ git push --force               ║
-║  ULTIMTE ▸ Ship at 3 AM 🔥                ║
-╚═══════════════════════════════════════════╝
-```
-
-</td>
-<td align="left" width="45%">
-
-```
-FRONTEND XP   [████████░░]  88
-BACKEND XP    [███████░░░]  75
-CLOUD/DEVOPS  [██████░░░░]  62
-CAFFEINE LVL  [█████████░]  91
-
-> 200+ commits / year
-> open to collabs & OSS
-> React · Node · Firebase
-> git blame says it was me
-```
-
-</td>
-</tr>
-</table>
-
+  <img src="https://raw.githubusercontent.com/curious04/curious04/main/character-sheet.svg" width="100%" alt="Character Sheet"/>
 </div>
 
 <br/>
